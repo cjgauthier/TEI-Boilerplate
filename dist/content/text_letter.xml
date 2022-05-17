@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>,  
 
-
 <?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI
     xmlns="http://www.tei-c.org/ns/1.0">
@@ -9,20 +8,20 @@
             <div type="letter">
                 <opener>
                     <address>
-                        <addrline>ATTN: Professor Burns</addrline>
+                        <addrline>ATTN: DH Workshop</addrline>
                         <addrline>
-                            <name>Dartmouth University</name>
+                            <name>Royal Holloway</name>
                         </addrline>
                     </address>
                     <dateline>
-                        <date when="1998-03-28"> 28th March 1998</date>
+                        <date when="2022-05-17"> 17th of May 2022</date>
                     </dateline>
-                    <salute> Dear Prof. Burns </salute>
+                    <salute> Dear DH workshop, </salute>
                 </opener>
-                <text> I wish to inform you that the documents you requested are now ready at the front desk </text>
+                <text> It is a pleasure to be here with you! I hope you will learn something today, and that we can continue to work together. I am not sure what else to write, so here is some Lorem Ipsum: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisi arcu, commodo eget viverra vitae, fringilla eu justo. In sed tincidunt odio, quis pellentesque lectus. Mauris hendrerit neque nisl, non lacinia dolor pulvinar id. Duis ornare purus varius, tristique dolor vitae, vehicula quam. Fusce efficitur metus nec blandit placerat. Aliquam augue libero, rhoncus in ante id, condimentum placerat nibh. Vestibulum varius sem vel pharetra mollis. Phasellus tempus tristique erat. Ut euismod consectetur sapien, eget tristique arcu interdum et. Nam vel arcu sem. Praesent eu ligula urna. Nunc vitae massa sed ante imperdiet convallis. Donec commodo tempor tristique. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Quisque tristique felis a massa fermentum, varius hendrerit dui imperdiet. Morbi fermentum turpis a libero elementum lobortis a et nunc. Aliquam vitae elementum metus. Pellentesque eleifend dictum ante. Nunc hendrerit libero sit amet molestie hendrerit. Quisque justo orci, tincidunt quis elementum placerat, pharetra quis neque. Nulla hendrerit enim a dapibus venenatis. Praesent varius sed est in ullamcorper. Curabitur purus urna, semper eu nulla at, gravida fringilla erat. Nulla at faucibus risus, eu finibus leo. Mauris sodales tortor sed lorem tempus, nec elementum sapien mollis. Nulla facilisi. Cras mi ex, luctus sed laoreet ut, faucibus a quam. Nulla id nunc rhoncus, aliquam nulla et, tristique magna. </text>
                 <closer>
-                    <salute> Warmest wishes, </salute>
-                    <signed> Hums Office </signed>
+                    <salute> Sincerely, </salute>
+                    <signed> Carlotta </signed>
                 </closer>
             </div>
         </body>
